@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["CQvta"]); }
+
+__d("useCometWindowFitNavPaneAndViewerSheet",["useCometWindowSize"],(function(a,b,c,d,e,f){"use strict";function a(){return b("useCometWindowSize")().innerWidth>=900}e.exports=a}),null);

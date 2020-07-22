@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["5dkx6"]); }
+
+__d("CometVisualCompletionConstants",[],(function(a,b,c,d,e,f){"use strict";a={ATTRIBUTE_NAME:"data-visualcompletion",HERO_TRACING_HOLD:"HeroTracing",IGNORE:"ignore",IGNORE_DYNAMIC:"ignore-dynamic",LOADING_STATE:"loading-state"};e.exports=a}),null);

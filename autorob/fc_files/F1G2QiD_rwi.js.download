@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["6Zy7Z"]); }
+
+__d("GeoPrivateMultiSelector_DEPRECATED.react",["FDSGeodesicThemeProvider.react","FDSMultiSelector.react","GeoPrivateMakeComponent","React"],(function(a,b,c,d,e,f){"use strict";c=b("GeoPrivateMakeComponent").makeGeoComponent;var g=b("React");function a(a){var c=a.isLabelHidden,d=a.onBlur,e=a.onClick,f=a.warningMessage;a=babelHelpers.objectWithoutPropertiesLoose(a,["isLabelHidden","onBlur","onClick","warningMessage"]);return g.jsx(b("FDSGeodesicThemeProvider.react"),{children:g.jsx(b("FDSMultiSelector.react"),babelHelpers["extends"]({},a,{labelIsHidden:c,onBlur:(a=d)!=null?a:void 0,onClick:(c=e)!=null?c:void 0,warningMessage:f}))})}e.exports=c("GeoMultiSelector",a)}),null);
